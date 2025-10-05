@@ -2,18 +2,20 @@
 
 > *A psychological horror experience disguised as a terminal emulator*
 
-![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
-![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Linux%20%7C%20Windows-lightgrey.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
-![Status](https://img.shields.io/badge/status-cursed-red.svg)
-
----
-
 ## ⚠️ WARNING
 
 **This is not a typical terminal emulator.**
 
 Haunted-OS is an immersive psychological horror experience that uses your real system information, tracks your behavior, and progressively descends into digital nightmare. It is designed to be uncomfortable, unsettling, and deeply personal.
+
+
+<img width="951" height="429" alt="Screenshot 2025-10-04 173021" src="https://github.com/user-attachments/assets/fa87ce71-bafd-43fb-908c-ceebeba96d4e" />
+<img width="293" height="64" alt="Screenshot 2025-10-04 173032" src="https://github.com/user-attachments/assets/c01155dd-cf74-4f16-91ec-b313e6295928" />
+<img width="35" height="7" alt="Screenshot 2025-10-04 173043" src="https://github.com/user-attachments/assets/5ec4e6b1-684c-4bfb-879f-d171fc2d52c9" />
+<img width="302" height="148" alt="Screenshot 2025-10-04 173050" src="https://github.com/user-attachments/assets/a6c4a98f-0b52-4e7a-8d2d-96d02769a252" />
+<img width="410" height="208" alt="Screenshot 2025-10-04 173104" src="https://github.com/user-attachments/assets/ad457031-5889-4df7-9703-41646a851b66" />
+<img width="726" height="161" alt="Screenshot 2025-10-04 173124" src="https://github.com/user-attachments/assets/5dd6cb95-1cc2-4c0d-ad12-9a37b9dec0a4" />
+
 
 **Before you run this:**
 - ✅ You understand this is a horror simulation
@@ -230,10 +232,7 @@ Changelog: Version history
 — WarGames (1983)
 
 But you're going to play anyway, aren't you?
-<img width="726" height="161" alt="Screenshot 2025-10-04 173124" src="https://github.com/user-attachments/assets/ab7795fc-ac51-4925-8da2-7cac36d6d253" />
-<img width="410" height="208" alt="Screenshot 2025-10-04 173104" src="https://github.com/user-attachments/assets/90fe4841-53a6-4463-a71a-83a1ac621b08" />
-<img width="302" height="148" alt="Screenshot 2025-10-04 173050" src="https://github.com/user-attachments/assets/f2ece127-c1dd-435a-902d-7cc6ee1c0a67" />
-<img width="35" height="7" alt="Screenshot 2025-10-04 173043" src="https://github.com/user-attachments/assets/2c192da0-8a0e-47c9-810a-e89231d525d1" />
+
 <img width="293" height="64" alt="Screenshot 2025-10-04 173032" src="https://github.com/user-attachments/assets/56abc09b-b774-41e0-962f-0e0dd58bc9d1" />
 <img width="951" height="429" alt="Screenshot 2025-10-04 173021" src="https://github.com/user-attachments/assets/77a5ef1d-1aba-4fed-b0c1-6294c9e89d96" />
 
