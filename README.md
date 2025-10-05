@@ -233,8 +233,5 @@ Changelog: Version history
 
 But you're going to play anyway, aren't you?
 
-<img width="293" height="64" alt="Screenshot 2025-10-04 173032" src="https://github.com/user-attachments/assets/56abc09b-b774-41e0-962f-0e0dd58bc9d1" />
-<img width="951" height="429" alt="Screenshot 2025-10-04 173021" src="https://github.com/user-attachments/assets/77a5ef1d-1aba-4fed-b0c1-6294c9e89d96" />
-
 Good luck.
 You're going to need it.
