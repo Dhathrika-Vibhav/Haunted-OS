@@ -1,4 +1,4 @@
-# 🖤 Haunted-OS
+# 🖤 OS13
 
 > *A psychological horror experience disguised as a terminal emulator*
 
@@ -6,7 +6,7 @@
 
 **This is not a typical terminal emulator.**
 
-Haunted-OS is an immersive psychological horror experience that uses your real system information, tracks your behavior, and progressively descends into digital nightmare. It is designed to be uncomfortable, unsettling, and deeply personal.
+OS13 is an immersive psychological horror experience that uses your real system information, tracks your behavior, and progressively descends into digital nightmare. It is designed to be uncomfortable, unsettling, and deeply personal.
 
 
 <img width="951" height="429" alt="Screenshot 2025-10-04 173021" src="https://github.com/user-attachments/assets/fa87ce71-bafd-43fb-908c-ceebeba96d4e" />
@@ -32,9 +32,9 @@ Haunted-OS is an immersive psychological horror experience that uses your real s
 
 ---
 
-## 🎭 What is Haunted-OS?
+## 🎭 What is OS13?
 
-Haunted-OS begins as a minimalist terminal interface. Type commands like `ls`, `whoami`, `date`. Everything seems normal.
+OS13 begins as a minimalist terminal interface. Type commands like `ls`, `whoami`, `date`. Everything seems normal.
 
 Then the anomalies begin.
 
@@ -70,8 +70,8 @@ All the commands used are very well-known ones. If you are new to these commands
 ### Install
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/Haunted-OS.git
-cd Haunted-OS
+git clone https://github.com/yourusername/OS13.git
+cd OS13
 
 # Run (no dependencies needed)
 python3 haunted_os.py
@@ -143,7 +143,7 @@ Commands 51+:    Discovery        → Finding the escape
 Final:           Liberation       → Goodbye (for real)
 
 🧠 Psychology Behind the Horror
-Haunted-OS doesn't rely on jump scares or gore. Instead, it employs:
+OS13 doesn't rely on jump scares or gore. Instead, it employs:
 Personalization
 Uses your real system information to break the barrier between fiction and reality.
 Progressive Escalation
@@ -173,7 +173,7 @@ What This Program DOES NOT Do:
 ❌ Run in background after closing
 
 Privacy Statement
-All data stays local. Your system information is only displayed within the program window and never transmitted or stored permanently. When you close Haunted-OS, everything is gone.
+All data stays local. Your system information is only displayed within the program window and never transmitted or stored permanently. When you close OS13, everything is gone.
 For Sensitive Users
 This program is designed to be psychologically uncomfortable. If you have:
 
